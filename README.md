@@ -29,4 +29,19 @@ One of my earlier project which was an attempt to create Youtube clone. It is a 
 <li>Closure</li>
 
 
+<h2>Homepage</h2>
+![Screenshot (636)](https://user-images.githubusercontent.com/101393249/192551930-3f0c9f0f-4c22-499a-a034-3b3855bb4f0b.png)
+
+
+<h2>Search results</h2>
+![Screenshot (637)](https://user-images.githubusercontent.com/101393249/192552167-08d4ef3f-db66-493a-ba7c-f1fca1447129.png)
+
+
+<h2>Search results</h2>
+![Screenshot (638)](https://user-images.githubusercontent.com/101393249/192552159-61e4f9d7-a697-4597-9854-e110af214df4.png)
+
+
+<h2>Video playing</h2>
+![Screenshot (640)](https://user-images.githubusercontent.com/101393249/192552151-db7f4d86-2b09-4a3f-941c-7a6164527ec6.png)
+
 
