@@ -50,4 +50,5 @@ One of my earlier project which was an attempt to create Youtube clone. It is a 
 
 
 
-<h2 style="text-align:centre">Thank-you for visiting</h2>
+
+ <h2 style="text-align:center ;">Thank-you for visiting</h2>
