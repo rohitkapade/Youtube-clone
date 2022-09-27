@@ -29,4 +29,4 @@ One of my earlier project which was an attempt to create Youtube clone. It is a 
 <li>Closure</li>
 
 
-<img style="width:100%; height:auto" src="https://drive.google.com/file/d/1kvDg1MtzHW-u12odq9rQralMRymBCZ1H/view?usp=sharing" alt="">
+
